@@ -1,7 +1,7 @@
 
 public class getLongest {
 	public static void main(String[]args) {
-		String [] names= {"Bob", "Sanders", "KKK ALL DAY", "Hari", "Yellow"};
+		String [] names= {"Bob", "Sanders", "ALL DAY", "Hari", "Yellow"};
 		String x = getLongest(names);
 		System.out.print(x);
 	}
